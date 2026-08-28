@@ -1,3 +1,4 @@
+
 # Analog-Synth
 
 
@@ -5,6 +6,10 @@
 My personal Analog Voltage Controlled Oscilator, wave shapers, and output stage
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5e192773-7523-4c14-9b91-b541d4fa33ef" width="60%">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c185042-6dde-4d1f-ae40-fc5f45bb14dc" width="60%">
 </p>  
 
 ## Behavior
